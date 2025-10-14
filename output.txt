@@ -1,0 +1,1793 @@
+'/Users/minki/notevscode/치료비케어/medi.xlsx' 파일에서 총 61개의 행을 찾았습니다.
+
+--- 행 1 데이터 ---
+id : 1
+programId : kyprolis-program
+isNewProgram : True
+programName : 키프롤리스주 약제비 환급 프로그램
+pharmaCompany : 암젠코리아
+brandName : 키프롤리스
+genericName : 카르필조밉
+supportDetails : 키프롤리스주를 전액본인부담으로 처방받아 구매한 내용에 대해서 일부 금액을 환급 (위험분담 계약상의 환급률에 따름)
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_14.php
+targetIndication : 다발골수종 - 이전에 한 가지 이상의 치료를 받은 환자
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담 계약상의 환급률에 따른 일부 금액 환급
+maxSupportAmount : 
+eligibility : 이전에 한 가지 이상의 치료를 받은 다발골수종 환자로 키프롤리스를 전액본인부담(100/100)으로 투여 받은 환자
+processingTime : 접수일 기준 최대 60일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 환급금 타인 공개 시 비밀유지 의무 위반
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 환급 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 통장사본, 진료비 세부내역서, 수납 영수증 원본
+status : active
+--------------------
+
+--- 행 2 데이터 ---
+id : 2
+programId : darzalex-program
+isNewProgram : True
+programName : 다라투무맙 약제비 환급 프로그램
+pharmaCompany : 한국얀센
+brandName : 다잘렉스
+genericName : 다라투무맙
+supportDetails : 다라투무맙 약제비 중 일부 금액 환급 (위험분담계약 상의 환급률에 따름)
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_11.php
+targetIndication : 다라투무맙의 허가사항 범위 내, 타 제품의 국내 허가사항 범위 내 포함 요법, 건강보험심사평가원 사전신청 항암화학요법 인정 경우
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담계약 상의 환급률에 따른 일부 금액 환급
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 다라투무맙의 허가사항 범위 내에서 전액본인부담으로 처방 받은 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 환급금 및 환급율 타인 공개 시 비밀유지 의무 위반
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 환급 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서 원본, 건강보험증 사본, 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 3 데이터 ---
+id : 3
+programId : xospata-program
+isNewProgram : False
+programName : 조스파타정 약제비 환급 프로그램
+pharmaCompany : 한국아스텔라스제약
+brandName : 조스파타정
+genericName : 길테리티닙 푸마르산염
+supportDetails : 조스파타정 약제비 중 일부 금액 환급 (위험분담 계약성의 환급률에 따름)
+simpleTargetIndication : 급성골수성백혈병
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_18.php
+targetIndication : 급성골수성백혈병 - 조스파타정을 허가사항 내에서 전액본인부담으로 처방 받은 환자
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담 계약성의 환급률에 따른 일부 금액 환급
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 조스파타정을 허가사항 내에서 전액본인부담으로 처방 받은 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 환급금 및 환급율 타인 공개 시 비밀유지 의무 위반
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 환급 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 통장사본, 진료비 세부내역서/처방전, 영수증 원본
+status : active
+--------------------
+
+--- 행 4 데이터 ---
+id : 4
+programId : ninlaro-program
+isNewProgram : False
+programName : 익사조밉 약제비 환급 프로그램
+pharmaCompany : 한국다케다제약
+brandName : 닌라로캡슐
+genericName : 익사조밉
+supportDetails : 익사조밉 약제비 중 일부금액 환급 - 위험분담계약 상의 환급율에 따른 환급, 허가사항 상 유지요법으로 처방받은 환자의 약제비 일부 지원
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_20.php
+targetIndication : 다발골수종 - 익사조밉을 허가사항 범위 내에서 전액본인부담으로 처방받은 환자
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담계약 상의 환급율에 따른 일부금액 환급
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 익사조밉을 허가사항 범위 내에서 전액본인부담으로 처방받은 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 환급금 타인 공개 시 비밀유지 의무 위반, 급여사항 변경 혹은 기금 소진에 따라 조기종료 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 통장사본, 진료비 세부내역서/처방전, 영수증 원본
+status : active
+--------------------
+
+--- 행 5 데이터 ---
+id : 5
+programId : onureg-program
+isNewProgram : False
+programName : 오뉴렉정 약제비 지원 프로그램
+pharmaCompany : 한국BMS제약
+brandName : 오뉴렉정
+genericName : 아자시티딘
+supportDetails : 오뉴렉정을 전액본인부담으로 처방받아 구매한 내용에 대해서 일부 금액을 환자에게 환급 (위험분담 계약상의 환급률에 따름)
+simpleTargetIndication : 급성골수성백혈병
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_25.php
+targetIndication : 급성골수성백혈병 성인환자에서의 유지요법 - 공고요법 시행 유무와 관계없이 유도요법 이후 첫 완전관해 또는 불완전한 혈액학적 회복을 동반한 완전관해를 달성하고, 조혈모세포이식이 적합하지 않은 경우
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담 계약상의 환급률에 따른 일부 금액 환급
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 허가사항 내 오뉴렉정을 전액본인부담한 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 환급금 타인 공개 시 비밀유지 의무 위반
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서 원본, 건강보험 자격확인서, 통장사본, 처방내역, 영수증 원본
+status : active
+--------------------
+
+--- 행 6 데이터 ---
+id : 6
+programId : xpovio-program
+isNewProgram : True
+programName : 셀리넥서 약제비 환급 프로그램
+pharmaCompany : 안텐진
+brandName : 엑스포비오
+genericName : 셀리넥서
+supportDetails : 셀리넥서 약제비 중 일부금액 환급 - 위험분담계약 상의 환급율에 따른 환급, 허가사항 중 미만성 거대 B세포 림프종으로 처방받은 환자의 약제비 일부 지원
+simpleTargetIndication : 미만성거대 B세포 림프종, 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_16.php
+targetIndication : 미만성거대 B세포 림프종, 다발골수종
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담계약 상의 환급율에 따른 일부금액 환급
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 셀리넥서를 허가사항 범위 내에서 전액본인부담으로 처방받은 환자
+processingTime : 서류 구비 완료 후 약 60일
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 기금 소진 시 종료 가능, 예고 없이 지원내용 변경 또는 중단 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 환급 신청서, 추천서, 개인정보 제공 동의서, 비밀유지확약서, 진단서 원본, 건강보험 자격확인서, 통장사본, 진료비 세부내역서/처방전, 영수증 원본
+status : active
+--------------------
+
+--- 행 7 데이터 ---
+id : 7
+programId : nurapeg-program
+isNewProgram : False
+programName : 페그테오그라스팀 약제비 지원 프로그램
+pharmaCompany : GC녹십자
+brandName : 뉴라펙
+genericName : 페그테오그라스팀
+supportDetails : 페그테오그라스팀 6mg 1회 투여당 20만원 정액 지원. (2023.01.01 신규 첫 처방부터 환자 1인당 최대 6회 지원)
+simpleTargetIndication : 호중구감소증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_10.php, https://www.kbdca.or.kr/sub02_new/sub02_2_2_23.php
+
+targetIndication : 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받은 환자의 중증 호중구감소증 기간 감소
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 페그테오그라스팀 6mg 1회 투여당 20만원 정액 지원 (2023.01.01 신규 첫 처방부터 환자 1인당 최대 6회 지원)
+maxSupportAmount : 환자 1인당 지원 한도 : 120만원
+eligibility : 고형암 및 악성 림프종에 대한 세포독성 화학요법을 투여 받고 중증 호중구감소증 기간 감소를 위해 전액본인부담으로 치료한 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 기금 소진 시 또는 보험 급여 개시 시까지 한시적 프로그램. (2023.01.01 신규 첫 처방부터 환자 1인당 최대 6회 지원)
+cancerTypes : 고형암,혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 페그테오그라스팀 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 8 데이터 ---
+id : 8
+programId : neulasta-program
+isNewProgram : False
+programName : 페그필그라스팀 약제비 지원 프로그램
+pharmaCompany : DKSH 코리아
+brandName : 뉴라스타
+genericName : 페그필그라스팀
+supportDetails : 페그필그라스팀 6mg 1회 투여 당 15만원 정액 지원 - 2025.04.01 신규 첫 처방부터 환자 1인당 최대 4회 지원
+simpleTargetIndication : 호중구감소증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_16_2.php, https://www.kbdca.or.kr/sub02_new/sub02_2_2_16.php
+targetIndication : 발열성 호중구 감소증에 대한 위험도 감소를 위해 허가사항에 따라 예방목적으로 비급여 처방을 받은 암환자
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 페그필그라스팀 6mg 1회 투여 당 15만원 정액 지원
+maxSupportAmount : 환자 1인당 지원 한도 : 60만원
+eligibility : 1. 발열성 호중구 감소증에 대한 위험도 감소를 위해 허가사항에 따라 페그필그라스팀을 예방목적으로 비급여(전액본인부담) 처방을 받은 암환자.
+2. 악성 종양에 대한 세포독성 화학요법(Chemotherapy)을 투여 받은 암환자.
+※ (단, 만성골수성백혈병(CML), 골수형성이상증후군(MDS) 제외함.)
+3. 항암화학요법 1cycle이 2주 요법 이상인 경우.
+
+processingTime : 서류 구비 완료 후 약 한 달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진 시 또는 약제의 보험급여 시행 중 먼저 도래하는 시기까지 한시적 진행
+cancerTypes : 범용
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 통장 사본, 진료비 세부내역서, 수납 영수증 원본
+status : active
+--------------------
+
+--- 행 9 데이터 ---
+id : 9
+programId : blincyto-program
+isNewProgram : False
+programName : 블리나투모맙 약제비 지원 프로그램
+pharmaCompany : 블리나투모맙 약제비 지원 프로그램
+brandName : 블린사이토
+genericName : 블리나투모맙
+supportDetails : 환자 본인부담 약제비(30% 선별급여) 중 50% 해당하는 금액 지원
+simpleTargetIndication : 급성림프모구성백혈병
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_12.php
+targetIndication : 급성림프모구성백혈병 - BCP-ALL(B-CELL 급성림프모구성 백혈병) 재발 또는 불응 환자로 블리나투모맙을 공고요법으로 사용하고 조혈모세포이식 사전승인을 받은 환자
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 본인부담 약제비(30% 선별급여) 중 50% 해당하는 금액 지원
+maxSupportAmount : 
+eligibility : BCP-ALL(B-CELL 급성림프모구성 백혈병) 재발 또는 불응 환자로 블리나투모맙을 공고요법으로 사용한 환자이면서 조혈모세포이식 사전승인을 받고 건강보험료 월 납부액이 30만원 이하인 환자
+processingTime : 서류 구비 완료 후 약 한 달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 건강보험료 월 납부액이 30만원 이하
+specialConditions : 기금 소진 시 종료 가능, 한시적 진행, 예고 없이 지원내용 변경 또는 중단 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험 납부확인서, 통장 사본, 진료비 세부내역서, 수납 영수증 원본
+status : active
+--------------------
+
+--- 행 10 데이터 ---
+id : 10
+programId : besponsa-program
+isNewProgram : False
+programName : 이노투주맙 오조가마이신 약제비 지원 프로그램
+pharmaCompany : 한국화이자제약
+brandName : 베스폰사
+genericName : 이노투주맙 오조가마이신
+supportDetails : 구매한 약제비의 처방일 기준 건강보험심사평가원 홈페이지에 공개되는 약제급여 상한금액의 50% 지원
+simpleTargetIndication : 급성림프모구성백혈병
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_13.php
+targetIndication : 만 18세 이상 재발 또는 불응성 전구 B세포 급성림프모구성백혈병(ALL) 단일 요법
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 구매한 약제비의 처방일 기준 건강보험심사평가원 홈페이지에 공개되는 약제급여 상한금액의 50% 지원
+maxSupportAmount : 
+eligibility : 만 18세 이상 재발 또는 불응성 전구 B세포 급성림프모구성백혈병(ALL) 단일 요법으로 4가지 세부 조건 중 하나를 만족하는 환자
+
+1. 필라델피아 음성 환자 중 이노투주맙 오조가마이신 주 1-2주기 치료 이후 주기 투여 (최대 6주기)가 필요한 2-3차 환자 (선별급여 30% 대상환자는 제외됨)
+
+2. 필라델피아 음성 환자 중 이노투주맙 오조가마이신 주 1-2주기 치료 및 1-2주기 치료 이후 추가 주기 투여 (최대 6주기)가 필요한 4차 이상 환자
+※ 단 이 경우, 대상환자의 과거 치료 이력과 동반질환을 고려했을 때 대체 약제의 사용이 어렵다는 의료진의 임상적 판단이 있는 경우에 한함
+
+3. 필라델피아 양성 환자 중 이노투주맙 오조가마이신 주 1-2주기 치료 및 1-2주기 치료 이후 추가 주기 투여 (최대 6주기)가 필요한 2차 환자
+※ 단 이 경우, 대상환자의 과거 치료 이력과 동반질환을 고려했을 때 대체 약제의 사용이 어렵다는 의료진의 임상적 판단이 있는 경우에 한함
+※ 1가지 이상의 티로신 키나제 억제제(TKI)에 실패한 적이 있어야 함
+
+4. 필라델피아 양성 환자 중 베스폰사 1-2주기 치료 이후 주기 투여 (최대 6주기)가 필요한 3차 이상 환자 (선별급여 30% 대상환자는 제외됨)
+※ 단 이 경우, 대상환자의 과거 치료 이력과 동반질환을 고려했을 때 대체 약제의 사용이 어렵다는 의료진의 임상적 판단이 있는 경우에 한함
+※ 1가지 이상의 티로신 키나제 억제제(TKI)에 실패한 적이 있어야 함
+processingTime : 서류 구비 완료 후 약 한 달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진 시 종료 가능, 한시적 시행, 예고 없이 지원내용 변경 또는 중단 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 통장 사본, 진료비 세부내역서, 수납 영수증 원본
+status : active
+--------------------
+
+--- 행 11 데이터 ---
+id : 11
+programId : rolontis-program
+isNewProgram : False
+programName : 에플라페그라스팀 약제비 지원 프로그램
+pharmaCompany : 한미약품
+brandName : 롤론티스
+genericName : 에플라페그라스팀
+supportDetails : 에플라페그라스팀 13.2mg 1회 투여당 19만원 정액지원 - 2023.02.01 신규 첫 처방부터 환자 1인당 최대 6회 지원
+simpleTargetIndication : 호중구감소증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_15.php
+targetIndication : 호중구 감소증 - 발열성 호중구 감소증에 대한 위험도 감소를 위해 허가사항에 따라 예방목적으로 비급여 처방을 받은 환자
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 에플라페그라스팀 13.2mg 1회 투여당 19만원 정액지원
+maxSupportAmount : 환자 1인당 최대 6회 지원 (최대 지원한도 : 114만원)
+eligibility : 1. 발열성 호중구 감소증에 대한 위험도 감소를 위해 허가사항에 따라 에플라페그라스팀을 예방목적으로 비급여(전액본인부담) 처방을 받은 환자
+2. 고형암 및 악성림프종에 대한 세포독성 화학요법을 투여 받은 환자
+※ 단, 급성 골수성 백혈병 (AML: 이차성 급성 골수성 백혈병 포함), 골수 이형성 증후군(MDS) 만성 골수성 백혈병 (CML) 제외함
+3. 중증 호중구 감소증 기간 감소를 위해 전액본인부담으로 치료한 환자
+
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 기금 소진 시 또는 보험급여 개시 시까지 한시적 프로그램
+cancerTypes : 고형암,혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 통장 사본, 진료비 세부내역서, 수납영수증 원본
+status : active
+--------------------
+
+--- 행 12 데이터 ---
+id : 12
+programId : besremi-program
+isNewProgram : True
+programName : 로페그인터페론알파-2b 약제 지원 프로그램
+pharmaCompany : 파마에센시아코리아
+brandName : 베스레미
+genericName : 로페그인터페론알파-2b
+supportDetails : 치료에 필요한 로페그인터페론알파-2b 1 시린지 (본인부담) 구매시 1시린지 무상지원
+simpleTargetIndication : 적혈구증가증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_21.php
+targetIndication : 로페그인터페론알파-2b치료를 시작하여 지속적으로 치료가 필요한 환우
+contractType : PAP
+supportType : 약제 무상지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 치료에 필요한 로페그인터페론알파-2b 1 시린지 (본인부담) 구매시 1시린지 무상지원
+maxSupportAmount : 환자 1인당 지원 한도 없음
+eligibility : 로페그인터페론알파-2b치료를 시작하여 지속적으로 치료가 필요한 환우로 2024년 기준 중위소득 180% 이하의 소득 수준
+processingTime : 약제지원 신청 접수 완료 후 병원 배송까지 최대 21일
+paymentMethod : 무상약 병원 배송
+incomeRequirement : 2024년 기준 중위소득 180% 이하의 소득 수준
+specialConditions : 보험급여 개시 전까지 한시적 운영, 예고 없이 변경 또는 중단 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제 지원 신청서, 추천서, 개인정보제공동의서, 건강보험납부확인서, 진료비 세부내역서, 수납 영수증 원본
+status : active
+--------------------
+
+--- 행 13 데이터 ---
+id : 13
+programId : adcetris-program
+isNewProgram : False
+programName : 브렌툭시맙베도틴 약제비 지원 프로그램
+pharmaCompany : 한국다케다제약
+brandName : 애드세트리스
+genericName : 브렌툭시맙베도틴
+supportDetails : 브렌툭시맙베도틴 주 약제비 중 50% 지원 (브렌툭시맙베도틴 주 이외의 약제 및 치료 관련 비용은 환자 본인 부담)
+simpleTargetIndication : CD30 양성 말초 T세포림프종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_23.php
+targetIndication : 이전에 치료받은 적이 없는 CD30 양성 말초 T세포림프종 환자에서 화학요법제(사이클로포스파마이드, 독소루비신, 프레드니손)와 병용요법
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 브렌툭시맙베도틴 주 약제비 중 50% 지원
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 브렌툭시맙베도틴 주 허가사항 중 병용요법 치료를 위해 전액본인부담으로 처방 받은 환자로 건강보험료 월 납부액이 60만원 미만인 환자
+processingTime : 신청 접수 완료 후 환급까지 최대 30일
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 건강보험료 월 납부액이 60만원 미만
+specialConditions : 건강보험의 적용 범위 변경 혹은 기금소진에 따라 조기 종료 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험납부확인서, 통장사본, 진료비 세부내역서, 약제비 납부영수증 원본
+status : active
+--------------------
+
+--- 행 14 데이터 ---
+id : 14
+programId : soliris-ultomiris-program
+isNewProgram : True
+programName : PNH, aHUS, NMOSD 약제비 지원 프로그램
+pharmaCompany : 한국한국아스트라제네카
+brandName : 솔리리스,울토미리스
+genericName : 에쿨리주맙,라불리주맙
+supportDetails : PNH, aHUS, NMOSD 약제비 본인 부담 상한액 중 최대 313만원까지 지원, 수막구균 백신비 실비 지원
+simpleTargetIndication : 발작야간혈색소뇨증(PNH),비정형용혈성요독증후군(aHUS),시신경척수염(NMOSD)
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_1.php
+targetIndication : PNH, aHUS, NMOSD 약제비 본인부담금이 있는 환자, 수막구균 백신을 접종한 환자
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : PNH, aHUS, NMOSD 약제비 본인 부담 상한액 중 최대 313만원까지 지원
+maxSupportAmount : 최대 313만원
+eligibility : PNH, aHUS, NMOSD 약제비 본인부담금이 있는 환자, PNH, aHUS, NMOSD 약제 투약을 위해 수막구균 백신을 접종한 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 환자 본인 또는 부양자의 소득분위 기준에 따른 본인부담상한액에 따라 차등 지원
+specialConditions : 우편접수 원칙, 기금 소진 시까지 한시적 진행, 예고 없이 지원 내용 변경 또는 중단 가능
+cancerTypes : 희귀질환,혈액질환,면역질환
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 개인정보제공동의서, 진단서 원본, 건강보험 관련 서류, 통장 사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 15 데이터 ---
+id : 15
+programId : reblozyl-program
+isNewProgram : True
+programName : 루스파터셉트 약제비 지원 프로그램
+pharmaCompany : 한국BMS제약
+brandName : 레블로질
+genericName : 루스파터셉트
+supportDetails : 루스파터셉트 75mg 1vial 당 2,302,430원 / 25mg 1vial 당 767,477원
+simpleTargetIndication : 성인 빈혈
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_27.php
+targetIndication : 골수형성이상증후군(MDS)으로 인한 성인 빈혈 환자, 고리철적혈모구를 동반한 골수형성이상증후군 (MDS-RS) 또는 골수형성이상/골수증식종양 (MDS/MPN-RS-T), 수혈 의존성 및 수혈 비의존성 성인 베타지중해빈혈 환자
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 루스파터셉트 75mg 1vial 당 2,302,430원 / 25mg 1vial 당 767,477원
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 이전에 적혈구생성자극제(ESA) 치료를 받은 적이 없으며 적혈구 수혈이 필요한 최저위험, 저위험, 중등도 위험의 골수형성이상증후군(MDS)으로 인한 성인 빈혈 환자 등
+processingTime : 서류 구비 완료 후 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 기금 소진 시 종료 가능, 한시적 시행, 예고 없이 지원내용 변경 또는 중단 가능
+cancerTypes : 혈액암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 지원 신청서, 진단서 원본, 추천서, 개인정보 제공 동의서, 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 16 데이터 ---
+id : 16
+programId : brukinsa-program
+isNewProgram : False
+programName : 자누브루티닙 약제비 지원 프로그램
+pharmaCompany : 베이진코리아
+brandName : 브루킨사
+genericName : 자누브루티닙
+supportDetails : 약제 상한가 기준 40% 지원
+simpleTargetIndication : 변연부 림프종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_28.php
+targetIndication : 이전에 한 가지 이상의 치료를 받은 적이 있는 재발성/불응성 변연부 림프종(MZL) 성인 환자
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제 상한가 기준 40%
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 변연부 림프종(MZL) 질환으로 진단받아 자누브루티닙을 허가사항 내 전액본인부담으로 투여받은 환자
+processingTime : 약 60일
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 기금 소진 시 종료 가능, 예고 없이 지원내용 변경 가능
+cancerTypes : 혈액암
+howToApply : 우편 접수 (한국혈액암협회 자누브루티닙 담당자 앞)
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 제공 동의서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 17 데이터 ---
+id : 17
+programId : ahus-test-support-program
+isNewProgram : True
+programName : aHUS 검사비 지원 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 
+genericName : 
+supportDetails : 실비지원 (최고가 검사에 대해 최대 120만원 지원)
+simpleTargetIndication : 비정형 용혈성 요독 증후군 (aHUS)
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_31.php
+targetIndication : 비정형 용혈성 요독 증후군(aHUS) 예후 확인
+contractType : ETC
+supportType : 검사비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 실비지원
+maxSupportAmount : 최대 120만원
+eligibility : 비정형 용혈성 요독 증후군(aHUS)의 예후 확인을 위한 비급여, 선별급여 검사를 진행한 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 한시적 사업으로 예고 없이 변경 또는 중단 가능
+cancerTypes : 희귀질환,혈액질환
+howToApply : 우편 접수 (한국혈액암협회 aHUS 검사비 담당자 앞)
+requiredDocuments : 신청서, 진단서, 추천서, 개인정보 동의서, 건강보험증, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 18 데이터 ---
+id : 18
+programId : pnh-test-support-program
+isNewProgram : True
+programName : PNH 검사비 지원 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 
+genericName : 
+supportDetails : 실비지원 (최고가 검사에 대해 최대 120만원 지원)
+simpleTargetIndication : 발작야간혈색소뇨증(PNH)
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_32.php
+targetIndication : 발작야간혈색소뇨증(PNH) 예후 확인
+contractType : ETC
+supportType : 검사비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 실비지원
+maxSupportAmount : 최대 120만원
+eligibility : 발작야간혈색소뇨증(PNH)의 예후 확인을 위한 비급여, 선별급여 검사를 진행한 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 한시적 사업으로 예고 없이 변경 또는 중단 가능
+cancerTypes : 희귀질환,혈액질환
+howToApply : 우편 접수 (한국혈액암협회 PNH 검사비 담당자 앞)
+requiredDocuments : 신청서, 진단서, 추천서, 개인정보 동의서, 건강보험증, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 19 데이터 ---
+id : 19
+programId : hpp-test-support-program
+isNewProgram : True
+programName : HPP 검사비 지원 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 
+genericName : 
+supportDetails : 실비지원 (최고가 검사에 대해 최대 120만원 지원)
+simpleTargetIndication : 저인산효소증(HPP)
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_33.php
+targetIndication : 저인산효소증(HPP) 예후 확인
+contractType : ETC
+supportType : 검사비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 실비지원
+maxSupportAmount : 최대 120만원
+eligibility : 저인산효소증(HPP)의 예후 확인을 위한 비급여, 선별급여 검사를 진행한 환자
+processingTime : 약 한달
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 기금 소진 시 종료 가능, 예고 없이 지원내용 변경 가능
+cancerTypes : 희귀질환
+howToApply : 우편 접수 (한국혈액암협회 HPP 검사비 담당자 앞)
+requiredDocuments : 신청서, 진단서, 추천서, 개인정보 동의서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 20 데이터 ---
+id : 20
+programId : tecvayli-program
+isNewProgram : True
+programName : 테클리스타맙 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 텍베일리
+genericName : 테클리스타맙
+supportDetails : 테클리스타맙 30mg 및 153mg 전액 본인 부담 내용에 대해 일부 금액 지원
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_30.php
+targetIndication : 프로테아좀억제제, 면역억제제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 일부 금액 지원
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 프로테아좀억제제, 면역억제제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 환자로 테클리스타맙을 전액 본인 부담한 환자
+processingTime : 약 한달
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 보험급여 전까지 한시적 진행, 기금 소진 시 중단 가능
+cancerTypes : 혈액암
+howToApply : 우편 접수 (한국혈액암협회 테클리스타맙 담당자 앞)
+requiredDocuments : 신청서, 의료진 추천서, 개인정보 동의서, 진단서, 건강보험증, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 21 데이터 ---
+id : 21
+programId : darzalex-sc-program
+isNewProgram : True
+programName : 다라투무맙 피하주사 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 다잘렉스피하주사
+genericName : 다라투무맙
+supportDetails : 다라투무맙 피하주사 1,800mg 전액본인부담 내용에 대해 일부 금액 지원
+simpleTargetIndication : 경쇄 아밀로이드증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_34.php
+targetIndication : 새롭게 진단된 경쇄(AL) 아밀로이드증 치료를 위해 보르테조밉, 시클로포스파미드 및 덱사메타손과의 병용요법
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 일부 금액 지원
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 새롭게 진단된 경쇄(AL) 아밀로이드증 치료를 위해 보르테조밉, 시클로포스파미드 및 덱사메타손과의 병용요법을 투여받은 환자로 다라투무맙 피하주사를 전액 본인 부담한 환자
+processingTime : 약 45일
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 보험급여 전까지 한시적 진행, 기금 소진 시 중단 가능
+cancerTypes : 희귀질환,혈액질환
+howToApply : 우편 접수 (한국혈액암협회 다라투무맙 피하주사 담당자 앞)
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 동의서, 통장사본, 건강보험증, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 22 데이터 ---
+id : 22
+programId : talvey-program
+isNewProgram : True
+programName : 탈쿠에타맙 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 탈베이
+genericName : 탈쿠에타맙
+supportDetails : 탈쿠에타맙 용량별 일부 금액 지원
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_38.php
+targetIndication : 프로테아좀억제제, 면역조절제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 용량별 일부 금액 지원
+maxSupportAmount : 
+eligibility : 프로테아좀억제제, 면역조절제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종 환자로 탈쿠에타맙 단독요법을 전액 본인 부담한 환자
+processingTime : 약 두달
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 보험급여 전까지 한시적 진행, 기금 소진 시 중단 가능
+cancerTypes : 혈액암
+howToApply : 우편 접수 (한국혈액암협회 탈쿠에타맙 담당자 앞)
+requiredDocuments : 신청서, 추천서, 개인정보 동의서, 진단서, 건강보험 자격확인서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 23 데이터 ---
+id : 23
+programId : empaveli-program
+isNewProgram : True
+programName : 페그세타코플란 약제비 지원 프로그램
+pharmaCompany : 한독
+brandName : 엠파벨리
+genericName : 페그세타코플란
+supportDetails : 페그세타코플란 투약비 및 백신접종비, 의료용 소모품 구입비 일부 금액 지원
+simpleTargetIndication : 발작야간혈색소뇨증(PNH)
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_37.php
+targetIndication : 발작야간혈색소뇨증(PNH)
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 본인 부담 상한액 중 최대 320만원까지 지원
+maxSupportAmount : 최대 320만원
+eligibility : 발작야간혈색소뇨증(PNH)으로 진단받은 환자 중 본 약제를 구입한 환자
+processingTime : 약 30일
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 기금 소진 시 종료 가능, 예고 없이 지원내용 변경 가능
+cancerTypes : 희귀질환,혈액질환
+howToApply : 우편 접수 (한국혈액암협회 페그세타코플란 담당자 앞)
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 동의서, 통장사본, 건강보험납부확인서, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 24 데이터 ---
+id : 24
+programId : elrexfio-program
+isNewProgram : True
+programName : 엘라나타맙 약제비 지원 프로그램
+pharmaCompany : 한국화이자제약
+brandName : 엘렉스피오
+genericName : 엘라나타맙
+supportDetails : 엘라나타맙 44mg 및 76mg 전액 본인 부담 내용에 대해 일부 금액 지원
+simpleTargetIndication : 다발골수종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_36.php
+targetIndication : 프로테아좀 억제제, 면역조절제제, 항-CD38 단클론항체를 포함하여 3차 이상의 치료를 받은 재발 또는 불응성 다발골수종
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 일부 금액 지원
+maxSupportAmount : 
+eligibility : 식약처 허가사항에 따라 엘라나타맙을 전액 본인 부담으로 처방 받은 환자
+processingTime : 약 30일
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 기금 소진 시 종료 가능, 예고 없이 지원내용 변경 가능
+cancerTypes : 혈액암
+howToApply : 우편 접수 (한국혈액암협회 엘라나타맙 담당자 앞)
+requiredDocuments : 신청서, 추천서, 개인정보 동의서, 진단서, 건강보험 자격확인서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 25 데이터 ---
+id : 25
+programId : tibsovo-program
+isNewProgram : False
+programName : 이보시데닙 약제비 지원 프로그램
+pharmaCompany : 한국세르비에
+brandName : 팁소보
+genericName : 이보시데닙
+supportDetails : 이보시데닙 1병(60정) 당 일부 금액 지원
+simpleTargetIndication : 담관암, 급성골수성백혈병
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_1_35.php, https://www.kbdca.or.kr/sub02_new/sub02_2_2_50.php
+targetIndication : 허가사항 내 비급여 또는 전액본인부담 처방
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 1병(60정) 당 일부 금액 지원
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 이보시데닙정을 허가사항 내에서 비급여 또는 전액본인부담으로 처방받은 환자
+processingTime : 약 30일
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 보험급여 전까지 한시적 진행, 기금 소진 시 중단 가능. 국내 정식 출시 후 처방받은 경우 소급 지원 가능
+cancerTypes : 담도암,혈액암
+howToApply : 우편 접수 (한국혈액암협회 이보시데닙 담당자 앞)
+requiredDocuments : 이보시데닙 약제비 지원 신청서, 의료진 추천서, 개인정보 제공 동의서, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 26 데이터 ---
+id : 26
+programId : xtandi-program-rsa-reimbursed
+isNewProgram : True
+programName : 엔잘루타마이드 약제비 환급 프로그램 (선별급여)
+pharmaCompany : 한국아스텔라스제약
+brandName : 엑스탄디
+genericName : 엔잘루타마이드
+supportDetails : 엔잘루타마이드 약제비 중 일부 금액 환급
+simpleTargetIndication : 전립선암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_24.php
+targetIndication : 무증상 또는 경미한 증상의 전이성 거세 저항성 전립선암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담계약 상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 무증상 또는 경미한 증상의 전이성 거세 저항성 전립선암 환자의 치료로 엔잘루타마이드를 선별급여로 구입한 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담계약 상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 전립선암
+howToApply : 우편 접수 또는 어플 접수 (한국혈액암협회)
+requiredDocuments : 신청서, 개인정보 동의서, 비밀유지확약서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 27 데이터 ---
+id : 27
+programId : xtandi-program-rsa
+isNewProgram : False
+programName : 엔잘루타마이드 약제비 환급 프로그램 (전액본인부담)
+pharmaCompany : 한국아스텔라스제약
+brandName : 엑스탄디
+genericName : 엔잘루타마이드
+supportDetails : 엔잘루타마이드 약제비 중 일부 금액 환급
+simpleTargetIndication : 전립선암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_2.php
+targetIndication : 전이성 거세저항성 전립선암, 고 위험 비전이성 거세저항성 전립선암, 호르몬 반응성 전이성 전립선암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담계약 상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 다양한 전립선암 환자 중 엔잘루타마이드를 전액 본인부담으로 구입한 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담계약 상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 전립선암
+howToApply : 우편 접수 또는 어플 접수 (한국혈액암협회)
+requiredDocuments : 신청서, 개인정보 동의서, 비밀유지확약서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 28 데이터 ---
+id : 28
+programId : stivarga-program
+isNewProgram : True
+programName : 레고라페닙 약제비 환급 프로그램
+pharmaCompany : 바이엘코리아
+brandName : 스티바가
+genericName : 레고라페닙
+supportDetails : 레고라페닙 전액본인부담 내용에 대해 일부 금액 환급
+simpleTargetIndication : 대장암, 간암, 전이성골육종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_4.php
+targetIndication : 이전에 플루오로피리미딘 계열 약물을 기본으로 하는 항암 화학 요법과, 항 VEGF 치료제, 항 EGFR 치료제로 치료를 받은적이 있는 전이성직장결장암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담 계약상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 허가사항 내 레고라페닙을 전액본인부담한 환자
+processingTime : 60일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담 계약상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 대장암
+howToApply : 우편 접수 (한국혈액암협회 레고라페닙 담당자 앞)
+requiredDocuments : 신청서, 추천서, 개인정보 동의서, 비밀유지확약서, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 29 데이터 ---
+id : 29
+programId : imfinzi-imjudo-program
+isNewProgram : True
+programName : 더발루맙/트레멜리무맙 약제비 환급 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 임핀지,이뮤도
+genericName : 더발루맙,트레멜리무맙
+supportDetails : 위험분담제 계약 및 환자 약제비 지원프로그램에 의한 환급
+simpleTargetIndication : 담도암, 간세포암, 폐암, 자궁내막암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_13.php
+targetIndication : 담도암, 간세포암, 제한기 소세포폐암, 절제가능한 비소세포폐암, 자궁내막암, 절제불가능한 비소세포폐암, 확장기 소세포폐암
+contractType : RSA_PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담제 계약 및 환자 약제비 지원프로그램에 의한 환급액
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 임핀지주, 이뮤도주를 허가사항내 전액본인부담으로 투여 받은 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 월 건강보험료 납부액 기준 차등 적용
+specialConditions : 위험분담제 계약상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 담도암,간암,폐암,자궁내막암
+howToApply : 우편 접수 (한국혈액암협회 더발루맙, 트레멜리무맙 담당자 앞)
+requiredDocuments : 신청서, 추천서, 개인정보 동의서, 비밀유지확약서, 진단서, 건강보험 관련 서류, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 30 데이터 ---
+id : 30
+programId : lynparza-program
+isNewProgram : False
+programName : 올라파립 약제비 환급 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 린파자
+genericName : 올라파립
+supportDetails : 올라파립 전액본인부담 내용에 대해 일부 금액 환급
+simpleTargetIndication : 난소암, 유방암, 전립선암, 췌장암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_27.php
+targetIndication : 허가사항 내 또는 허가초과 항암용법
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 위험분담제 계약 및 환자 약제비 지원 프로그램에 의한 환급액
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 린파자 정을 허가사항 내 전액본인부담으로 투여 받은 환자 또는 허가초과 항암용법으로 치료받은 환자
+processingTime : 30일 이내
+paymentMethod : 계좌 입금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담제 계약상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 난소암,유방암,전립선암,췌장암
+howToApply : 우편 접수 (한국혈액암협회 올라파립RSA담당자 앞)
+requiredDocuments : 신청서, 추천서, 개인정보 동의서, 비밀유지확약서, 진단서, 건강보험증, 통장사본, 진료비 세부내역서, 영수증
+status : active
+--------------------
+
+--- 행 31 데이터 ---
+id : 31
+programId : bavencio-program
+isNewProgram : True
+programName : 아벨루맙 약제비 지원 프로그램
+pharmaCompany : 한국머크
+brandName : 바벤시오
+genericName : 아벨루맙
+supportDetails : 아벨루맙을 전액본인부담으로 처방받아 구매한 내용에 대해 일부 금액을 환자에게 환급
+simpleTargetIndication : 요로상피암, 메르켈세포암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_29.php
+targetIndication : 허가사항 내 전액본인부담으로 투여받은 환자
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 아벨루맙 200mg을 허가사항 내 전액본인부담으로 투여받은 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : 우편접수 원칙, 비밀유지확약서 작성 필요
+cancerTypes : 방광암,피부암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 아벨루맙 약제비 환급 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 진료비세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 32 데이터 ---
+id : 32
+programId : lynparza-tablet-transition-program
+isNewProgram : False
+programName : 올라파립 약제비 환급 프로그램 (정제 전환 프로그램)
+pharmaCompany : 한국아스트라제네카
+brandName : 린파자
+genericName : 올라파립
+supportDetails : 캡슐에서 정제로 전환 시 발생한 본인부담금 차액 중 증액된 비용 일부 환급
+simpleTargetIndication : 난소암, 유방암, 전립선암, 췌장암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_33.php
+targetIndication : 올라파립 캡슐을 보험 급여로 복용하고 있던 환자 중 올라파립 정으로 전환한 환자
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 올라파립 정으로 전환시에도 보험 급여가 인정된 환자
+processingTime : 60일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : 올라파립 정 전환 급여 공고 시행일 이후 변경 환자만 해당
+cancerTypes : 난소암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 올라파립 정 전환 환급신청서, 개인정보제공동의서, 비밀유지확약서, 건강보험증 사본, 환자 본인 명의 통장사본, 마지막 올라파립 캡슐 처방 내역서, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 33 데이터 ---
+id : 33
+programId : vitrakvi-program
+isNewProgram : True
+programName : 라로트렉티닙 약제비 지원 프로그램
+pharmaCompany : 바이엘코리아
+brandName : 비트락비
+genericName : 라로트렉티닙
+supportDetails : 라로트렉티닙 약제비 중 일부 금액 환급
+simpleTargetIndication : NTRK 유전자 융합 고형암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_39.php
+targetIndication : NTRK 유전자 융합을 보유한 고형암 치료
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 라로트렉티닙을 허가사항 내 전액본인부담으로 투여받은 환자
+processingTime : 60일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : NTRK 유전자 융합 검사 필요
+cancerTypes : 고형암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 라로트렉티닙 약제비 지원 신청서, 추천서, 개인정보제공동의서, 비밀유지확약서, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 34 데이터 ---
+id : 34
+programId : erleada-program
+isNewProgram : True
+programName : 얼리다 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 얼리다
+genericName : 아팔루타마이드
+supportDetails : 얼리다 약제비 중 일부 금액 환급
+simpleTargetIndication : 전립선암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_40.php
+targetIndication : 호르몬 반응성 전이성 전립선암, 고위험 비전이성 거세저항성 전립선암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 얼리다를 허가사항 범위 내에서 전액본인부담으로 처방받은 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : 사전신청 항암화학요법 인정 시 가능
+cancerTypes : 전립선암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 환급 신청서, 의료진 추천서, 개인정보 제공 동의서, 비밀유지확약서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 처방 내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 35 데이터 ---
+id : 35
+programId : tagrisso-program
+isNewProgram : False
+programName : 타그리소 약제비 지원 프로그램
+pharmaCompany : 한국아스트라제네카
+brandName : 타그리소
+genericName : 오시머티닙
+supportDetails : 타그리소를 전액본인부담으로 처방받아 구매한 내용에 대해 일부 금액을 환자에게 환급
+simpleTargetIndication : 비소세포폐암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_45.php
+targetIndication : EGFR 변이 양성 비소세포폐암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : EGFR 변이 양성 비소세포폐암 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : EGFR 변이 검사 필요
+cancerTypes : 폐암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 약제비 환급 신청서, 의료진 추천서, 개인정보 처리 동의서, 비밀유지확약서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 처방 내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 36 데이터 ---
+id : 36
+programId : cabometyx-program
+isNewProgram : True
+programName : 카보잔티닙 약제비 지원 프로그램
+pharmaCompany : 입센코리아
+brandName : 카보메틱스
+genericName : 카보잔티닙
+supportDetails : 카보잔티닙을 1정당 50,000원 지원
+simpleTargetIndication : 간암, 신장세포암, 갑상선암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_46.php
+targetIndication : 간세포암, 비투명 진행성 신장세포암, 신장세포암(병용), 갑상선암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 1정당 50,000원
+eligibility : 카보잔티닙을 전액 본인부담으로 처방받은 환자
+processingTime : 60일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : 기금 소진 시 또는 건강보험 급여 시행까지 한시적 지원
+cancerTypes : 간암,신장암,갑상선암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 카보잔티닙 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 환자 본인 명의 통장사본, 건강보험증 사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 37 데이터 ---
+id : 37
+programId : halaven-program
+isNewProgram : False
+programName : 에리불린 메실산염 약제비 지원 프로그램
+pharmaCompany : 한국에자이
+brandName : 할라벤
+genericName : 에리불린 메실산염
+supportDetails : 에리불린 메실산염 1병당 77,913원 지원
+simpleTargetIndication : 유방암, 지방육종
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_14.php
+targetIndication : HER2 음성 전이성 유방암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 1병당 77,913원
+eligibility : 건강보험료 본인부담금 30만원 미만인 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 건강보험료 본인부담금 30만원 미만
+specialConditions : 이전에 에리불린 또는 PD-L1 억제제 치료받은 환자 제외
+cancerTypes : 유방암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 에리불린 메실산염 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험 관련 서류, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 38 데이터 ---
+id : 38
+programId : zejula-program
+isNewProgram : True
+programName : 니라파립 약제비 지원 프로그램
+pharmaCompany : 한국다케다제약
+brandName : 제줄라
+genericName : 니라파립
+supportDetails : 니라파립 약제 구입비용의 40% 지원
+simpleTargetIndication : 난소암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_18.php
+targetIndication : 난소암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 구입비용의 40%
+eligibility : 건강보험료 월 납부액 40만원 미만인 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 건강보험료 월 납부액 40만원 미만
+specialConditions : 건강보험 요양급여 적용 받는 환자는 제외
+cancerTypes : 난소암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 니라파립 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 환자 본인 명의 통장사본, 건강보험 관련 서류, 처방 내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 39 데이터 ---
+id : 41
+programId : lumakras-program
+isNewProgram : False
+programName : 루마크라스 약제비 지원 프로그램
+pharmaCompany : 암젠코리아
+brandName : 루마크라스
+genericName : 소토라십
+supportDetails : 루마크라스 1정당 12,000원 지원
+simpleTargetIndication : 비소세포폐암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_34.php
+targetIndication : KRAS G12C 변이 비소세포폐암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 1정당 12,000원
+eligibility : KRAS G12C 변이 국소 진행성 또는 전이성 비소세포폐암 환자
+processingTime : 30일 이내
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : 이전에 적어도 한 번의 치료를 받은 환자
+cancerTypes : 폐암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 루마크라스 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 40 데이터 ---
+id : 42
+programId : padcev-program
+isNewProgram : True
+programName : 엔포투맙베도틴 약제비 지원 프로그램
+pharmaCompany : 한국아스텔라스제약
+brandName : 파드셉
+genericName : 엔포투맙베도틴
+supportDetails : 엔포투맙베도틴 30mg 1vial 당 28만원, 20mg 1vial 당 18만 6천원 지원
+simpleTargetIndication : 요로상피암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_41.php
+targetIndication : 국소 진행성 또는 전이성 요로상피암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 30mg 1vial 당 28만원, 20mg 1vial 당 18만 6천원
+eligibility : 국소 진행성 또는 전이성 요로상피암 성인 환자
+processingTime : 60일
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : PD-1 또는 PD-L1 억제제 및 백금기반 화학요법제 치료 경험 필요
+cancerTypes : 방광암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 엔포투맙베도틴 약제비 지원 신청서, 진단서 원본, 의료진 추천서, 개인정보 제공 동의서, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 41 데이터 ---
+id : 43
+programId : rybrevant-program
+isNewProgram : False
+programName : 아미반타맙 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 리브리반트
+genericName : 아미반타맙
+supportDetails : 아미반타맙을 전액 본인부담으로 처방받아 구매한 내용에 대해 일부 금액 지원
+simpleTargetIndication : 비소세포폐암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_37.php
+targetIndication : EGFR 엑손 20 삽입 변이 비소세포폐암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : EGFR 엑손 20 삽입 변이 비소세포폐암 성인 환자
+processingTime : 60일
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : EGFR 변이 검사 필요
+cancerTypes : 폐암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 아미반타맙 약제비 지원 신청서, 추천서, 개인정보제공동의서, 진단서 원본, 건강보험증 사본, 환자 본인 명의 통장사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 42 데이터 ---
+id : 44
+programId : balversa-program
+isNewProgram : True
+programName : 얼다피티닙 약제비 지원 프로그램
+pharmaCompany : 한국얀센
+brandName : 발베사
+genericName : 얼다피티닙
+supportDetails : 얼다피티닙 (3mg/4mg/5mg) 각 정당 46,800원 지원
+simpleTargetIndication : 요로상피암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_47.php
+targetIndication : FGFR3 유전자 변이 요로상피암
+contractType : PAP
+supportType : 약제비 지원
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 1인당 지원 한도 금액 제한 없음
+maxSupportAmount : 각 정당 46,800원
+eligibility : FGFR3 유전자 변이가 있는 요로상피암 환자
+processingTime : 60일
+paymentMethod : 환자 본인 계좌로 송금
+incomeRequirement : 
+specialConditions : PD-1 또는 PD-L1 억제제 치료 경험 필요, FGFR 변이 검사 필요
+cancerTypes : 방광암
+howToApply : 필요 서류 구비 후 우편 발송
+requiredDocuments : 얼다피티닙 약제비 지원 신청서, 진단서 원본, 추천서, 개인정보 제공 동의서, 환자 본인 명의 통장사본, 건강보험증 사본, 진료비 세부내역서, 영수증 원본
+status : active
+--------------------
+
+--- 행 43 데이터 ---
+id : 46
+programId : nubeqa-program
+isNewProgram : True
+programName : 다로루타마이드 약제비 지원
+pharmaCompany : 바이엘
+brandName : 뉴베카
+genericName : 다로루타마이드
+supportDetails : 다로루타마이드를 비급여로 처방받아 구매한 약제비에 대해서 일부 금액을 지원
+simpleTargetIndication : 전립선암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_49.php
+targetIndication : 고위험 비전이성 거세저항성 전립선암(nmCRPC), mHSPC(호르몬 반응성 전이성 전립선암), 호르몬 반응성 전이성 전립선암
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 다로루타마이드를 허가사항 내 비급여로 투여받은 환자
+processingTime : 접수일 기준 60일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 전립선암
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보 제공 동의서, 본인 명의 통장 사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 44 데이터 ---
+id : 47
+programId : truqap-program
+isNewProgram : True
+programName : 카피바설팁 약제비 지원
+pharmaCompany : 한국아스트라제네카
+brandName : 티루캡
+genericName : 카피바설팁
+supportDetails : 카피바설팁 및 파슬로덱스 처방 건에 대해 일부 금액 지원
+simpleTargetIndication : 유방암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_51.php
+targetIndication : 호르몬 수용체(HR) 양성, HER2 음성이며 PIK3CA/AKT1/PTEN 변이가 있는 성인의 국소 진행성 또는 전이성 유방암
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 
+eligibility : HR 양성, HER2 음성이며 PIK3CA/AKT1/PTEN 변이가 있는 국소 진행성 또는 전이성 유방암 환자
+processingTime : 약 30일
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 카피바설팁과 파슬로덱스가 함께 처방되는 경우에만 지원
+cancerTypes : 유방암
+howToApply : 우편 접수
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 처리 동의서, 건강보험자격확인서, 본인 명의 통장사본, 진료비세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 45 데이터 ---
+id : 48
+programId : vyloy-program
+isNewProgram : True
+programName : 졸베툭시맙 약제비 지원
+pharmaCompany : 아스텔라스
+brandName : 빌로이
+genericName : 졸베툭시맙
+supportDetails : 졸베툭시맙 1vial 당 240,000원 지원
+simpleTargetIndication : 위암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_52.php
+targetIndication : CLDN18.2 양성, HER2 음성의 절제 불가능한 국소 진행성 또는 전이성인 위선암 또는 위식도 접합부 선암
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 1vial 당 240,000원
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : CLDN18.2 양성, HER2 음성의 절제 불가능한 국소 진행성 또는 전이성인 위선암 또는 위식도 접합부 선암 환자
+processingTime : 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진 시 종료 가능
+cancerTypes : 위암
+howToApply : 우편 접수
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 제공 동의서, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 46 데이터 ---
+id : 49
+programId : urothelial-carcinoma-ngs-test-support-program
+isNewProgram : True
+programName : 요로상피암 NGS 검사비 지원
+pharmaCompany : 한국얀센
+brandName : 
+genericName : 
+supportDetails : 환자 당 40만원 정액 지급 (1회 한정)
+simpleTargetIndication : 요로상피암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_53.php
+targetIndication : 수술적으로 절제 불가능한 국소진행성 또는 전이성 요로상피암
+contractType : ETC
+supportType : 검사비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 환자 당 40만원 정액
+maxSupportAmount : 40만원
+eligibility : 수술적으로 절제 불가능한 국소진행성 또는 전이성 요로상피암 환자 중 FGFR3 유전자 변이 확인을 위해 NGS 검사를 진행한 환자
+processingTime : 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 검사 진행 후 60일 이내 신청 권고
+cancerTypes : 방광암
+howToApply : 우편 접수
+requiredDocuments : 신청서, 검사비 지원 추천서, 개인정보제공동의서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 47 데이터 ---
+id : 50
+programId : fruzaqla-program
+isNewProgram : True
+programName : 프루퀸티닙 약제비 지원
+pharmaCompany : 한국다케다제약
+brandName : 프루자클라
+genericName : 프루퀸티닙
+supportDetails : 프루퀸티닙 캡슐 약제 구입 시 해당 비용의 일부 금액 지원
+simpleTargetIndication : 대장암
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_2_54.php
+targetIndication : 전이성 대장암
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 
+eligibility : 전이성 대장암 환자로 건강보험 급여 대상이 되지 않는 환자, 건강보험료 월 납부액 60만원 미만 환자
+processingTime : 최대 30일
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 건강보험료 월 납부액 60만원 미만
+specialConditions : 기금소진에 따라 조기 종료 가능
+cancerTypes : 대장암
+howToApply : 우편 접수
+requiredDocuments : 신청서, 추천서, 개인정보제공동의서, 건강보험 납부확인서, 본인 명의 통장사본, 처방전 및 영수증
+status : active
+--------------------
+
+--- 행 48 데이터 ---
+id : 51
+programId : crysvita-program
+isNewProgram : True
+programName : 크리스비타 약제비 지원
+pharmaCompany : 한국쿄와기린
+brandName : 크리스비타
+genericName : 부로수맙
+supportDetails : 크리스비타 약제비 중 일부 금액 환급
+simpleTargetIndication : 구루병, 골연화증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_3.php
+targetIndication : FGF23 관련 저인산혈증성 구루병 및 골연화증, 종양성 골연화증
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : FGF23 관련 저인산혈증성 구루병 및 골연화증, 종양성 골연화증으로 전액본인부담으로 처방받은 환자
+processingTime : 접수일 기준 45일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 비밀유지 의무, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 희귀질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 49 데이터 ---
+id : 52
+programId : strensiq-program
+isNewProgram : True
+programName : 스트렌식주 약제비 지원
+pharmaCompany : 한국아스트라제네카
+brandName : 스트렌식
+genericName : 아스포타제알파
+supportDetails : 스트렌식주 구매비용 중 일부 금액 환급
+simpleTargetIndication : 저인산효소증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_6.php
+targetIndication : 저인산효소증
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 구매비용 중 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 저인산효소증으로 진단받은 환자 중 본 약제를 비급여 전액 본인부담으로 구입한 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 비밀유지 의무, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 희귀질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보제공동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 50 데이터 ---
+id : 53
+programId : koselugo-program
+isNewProgram : True
+programName : 셀루메티닙 약제비 지원
+pharmaCompany : 한국아스트라제네카
+brandName : 코셀루고
+genericName : 셀루메티닙
+supportDetails : 셀루메티닙 구매비용 중 일부 금액 환급
+simpleTargetIndication : 신경섬유종증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_7.php
+targetIndication : 증상이 있고 수술이 불가능한 총상신경섬유종을 동반한 신경섬유종증 1형
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 구매비용 중 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 증상이 있고 수술이 불가능한 총상신경섬유종을 동반한 신경섬유종증 1형으로 진단받은 소아 환우
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 비밀유지 의무, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 희귀질환,면역질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보 제공 동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 51 데이터 ---
+id : 54
+programId : livtencity-program
+isNewProgram : True
+programName : 마리바비르정 약제비 지원
+pharmaCompany : 한국다케다제약
+brandName : 리브텐시티
+genericName : 마리바비르
+supportDetails : 마리바비르정의 위험분담계약에 따른 약제비 일부 금액 환급
+simpleTargetIndication : 거대세포바이러스
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_8.php
+targetIndication : 거대세포바이러스(CMV) 감염
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 마리바비르정을 약제비 전액본인부담으로 처방받은 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 비밀유지 의무, 급여사항 변경 혹은 기금소진에 따라 조기 종료 가능
+cancerTypes : 희귀질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보 처리 동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 52 데이터 ---
+id : 55
+programId : fasenra-program
+isNewProgram : True
+programName : 파센라 약제비 지원
+pharmaCompany : 한국아스트라제네카
+brandName : 파센라
+genericName : 벤라리주맙
+supportDetails : 파센라를 전액본인부담으로 처방받아 구매한 내용에 대해서 일부 금액을 환자에게 환급
+simpleTargetIndication : 호산구성 천식
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_10.php
+targetIndication : 성인에서 기존 치료에 적절하게 조절되지 않는 중증 호산구성 천식 치료의 추가 유지요법, 성인에서 다발혈관염을 동반한 호산구육아종증(EGPA)의 추가 유지 요법
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 파센라를 허가사항 내 전액본인부담으로 투여받은 환자
+processingTime : 접수일 기준 30일 이내
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 비밀유지 의무, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 희귀질환,면역질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 의료진 추천서, 개인정보 제공 동의서, 비밀유지확약서, 진단서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 53 데이터 ---
+id : 56
+programId : cresemba-program
+isNewProgram : True
+programName : 이사부코나졸 약제비 지원
+pharmaCompany : 한국화이자제약
+brandName : 크레셈바
+genericName : 이사부코나졸
+supportDetails : 이사부코나졸 100mg 1cap 당 16,685원, 이사부코나졸 200mg 1vial 당 136,486원 지원
+simpleTargetIndication : 침습성 아스페르길루스증, 침습성 털곰팡이증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_4.php
+targetIndication : 침습성 아스페르길루스증, 침습성 털곰팡이증
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 1cap 당 16,685원 또는 1vial 당 136,486원
+maxSupportAmount : 
+eligibility : 만 18세 이상 성인에서의 침습성 아스페르길루스증 또는 침습성 털곰팡이증 치료받은 환자
+processingTime : 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진시 종료 가능, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 기타
+howToApply : 우편 접수
+requiredDocuments : 신청서, 지원 추천서, 개인정보제공동의서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 54 데이터 ---
+id : 57
+programId : piresco-program
+isNewProgram : True
+programName : 피레스코 약제비 지원
+pharmaCompany : 코오롱제약
+brandName : 피레스코
+genericName : 피르페니돈
+supportDetails : 해당 약제비용의 50% 지원
+simpleTargetIndication : 특발성 폐 섬유증, 만성 섬유성 간질성 폐질환
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_9.php
+targetIndication : 특발성 폐 섬유증 또는 만성 섬유성 간질성 폐질환
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제비용의 50%
+maxSupportAmount : 환자 1인당 지원 한도 금액 제한 없음
+eligibility : 특발성 폐 섬유증 또는 만성 섬유성 간질성 폐질환으로 진단받은 환자 중 전액 본인부담으로 항섬유화 약제를 구입한 환우
+processingTime : 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진시 종료 가능, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 희귀질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 제공 동의서, 건강보험증 사본, 본인 명의 통장사본, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 55 데이터 ---
+id : 58
+programId : tremfya-program
+isNewProgram : True
+programName : 구셀쿠맙 약제비 지원
+pharmaCompany : 한국얀센
+brandName : 트렘피어
+genericName : 구셀쿠맙
+supportDetails : 구셀쿠맙 각 vial 당 일부금액 지원
+simpleTargetIndication : 손발바닥 농포증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_11.php
+targetIndication : 손발바닥 농포증의 보편적인 치료에 반응이 불충분한 중증도에서 중증의 성인 손발바닥 농포증
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 각 vial 당 일부금액
+maxSupportAmount : 환자당 최대 7회까지 지원
+eligibility : 중증난치질환산정특례 대상자로 포함되지 않는 환자, 6개월 이상 지속되는 중등도-중증 손발바닥 농포증 환자
+processingTime : 약 두달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 최초 지원금 입금일로부터 최대 1년 이내 신청 건에 한함
+cancerTypes : 면역질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 진단서, 의료진 추천서, 개인정보 처리 동의서, 본인 명의 통장사본, 건강보험자격확인서, 진료비 세부내역서 및 영수증
+status : active
+--------------------
+
+--- 행 56 데이터 ---
+id : 59
+programId : litfulo-program
+isNewProgram : True
+programName : 리틀레시티닙 약제비 지원
+pharmaCompany : 한국화이자제약
+brandName : 리트풀로
+genericName : 리틀레시티닙
+supportDetails : 해당 약제 비용의 35% 지원
+simpleTargetIndication : 중증 원형탈모증
+sourceURL : https://www.kbdca.or.kr/sub02_new/sub02_2_3_12.php
+targetIndication : 성인 및 12세 이상 청소년의 중증 원형탈모증
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 약제 비용의 35%
+maxSupportAmount : 
+eligibility : 성인 및 12세 이상 청소년의 중증 원형탈모증 치료를 위해 리틀레시티닙을 치료하는 환자
+processingTime : 약 두달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 
+specialConditions : 기금 소진시 종료 가능, 약제 투여 후 30일 이내 신청 권고
+cancerTypes : 면역질환
+howToApply : 우편 접수
+requiredDocuments : 신청서, 추천서, 개인정보제공동의서, 건강보험자격확인서, 본인 명의 통장사본, 처방전 및 영수증
+status : active
+--------------------
+
+--- 행 57 데이터 ---
+id : 60
+programId : lenvima-program
+isNewProgram : False
+programName : 렌비마 약제비 지원 (종료)
+pharmaCompany : 한국에자이
+brandName : 렌비마
+genericName : 렌바티닙
+supportDetails : 급여 투약된 렌바티닙의 약제비 환자 본인부담금 5% 지급 (2022년 12월 31일 종료)
+simpleTargetIndication : 간세포성암, 갑상선암
+sourceURL : https://www.kbdca.or.kr/bbs/board.php?tbl=bbs223&mode=VIEW&num=194
+targetIndication : 방사성 요오드 치료에 불응한 분화 갑상선암, 절제불가능한 간세포성암
+contractType : PAP
+supportType : 약제비 환급
+tpaCompany : 한국혈액암협회
+tpaContact : 02-3432-0807
+maxSupport : 급여 투약된 렌바티닙의 약제비 환자 본인부담금 5% 지급
+maxSupportAmount : 
+eligibility : 렌바티닙 메실산염을 허가사항 및 급여 기준에 따라 1차 치료제로 투여 받은 방사성 요오드 치료에 불응한 분화 갑상선암 (질병코드: C73) 또는 절제불가능한 간세포성암 (질병코드: C22) 환자
+processingTime : 
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 환자 본인 혹은 부양자의 건강보험료 본인부담금이 월 35만원 이하인 경우
+specialConditions : COVID19로 인하여 경제적 어려움을 겪고 있는 렌바티닙을 1차 급여 치료로 받은 환자에게 한시적으로 진행하는 프로그램
+cancerTypes : 간암,갑상선암
+howToApply : 우편 접수
+requiredDocuments : 진단서, 의료진 추천서, 개인정보제공동의서, 건강보험증 사본, 본인 명의 통장사본, 처방전 및 영수증
+status : ended
+--------------------
+
+--- 행 58 데이터 ---
+id : 61
+programId : verzenio-program
+isNewProgram : False
+programName : 버제니오 약제비 지원
+pharmaCompany : 한국릴리
+brandName : 버제니오
+genericName : 아베마시클립
+supportDetails : HR+/HER2- 조기 유방암 환자가 버제니오주를 처방받아 구매한 내용에 대해서 일부 금액을 환급
+simpleTargetIndication : HR+/HER2- 조기 유방암
+sourceURL : 
+targetIndication : HR+/HER2- 조기 유방암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 에임메드
+tpaContact : 02-3459-7775
+maxSupport : 약제비 일부 금액
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 버제니오정을 허가사항 내에서 전액본인부담으로 처방 받은 환자
+processingTime : 약 한달
+paymentMethod : 환자 본인 계좌 송금
+incomeRequirement : 소득 기준 없음
+specialConditions : 비밀유지의무 준수
+cancerTypes : 유방암
+howToApply : 우편 접수
+requiredDocuments : 약제비 환급 신청서, 의료진 추천서, 개인정보 처리 동의서, 비밀유지확약서, 진단서 원본, 진료비 세부내역서 및 영수증, 환자 본인의 신분증 사본, 환자 본인 명의 통장사본
+status : active
+--------------------
+
+--- 행 59 데이터 ---
+id : 62
+programId : keytruda-program
+isNewProgram : False
+programName : 키트루다 약제비 지원
+pharmaCompany : 한국MSD
+brandName : 키트루다
+genericName : 펨브롤리주맙
+supportDetails : 키트루다주를 전액본인부담(상한가 기준)으로 처방받아 구매한 내용에 대해서 일부 금액을 환급(위험분담 계약상의 환급률에 따름)
+simpleTargetIndication : 비소세포폐암, 두경부암, 위암, 대장암, 식도암, 담도암, 췌장암, 소장암, 요로상피암, 신세포암, 삼중음성 유방암, 자궁내막암, 자궁경부암, 난소암, 흑색종, 호지킨림프종 등
+sourceURL : https://keytruda.medi-planner.com/_amsd_refund/main.asp
+targetIndication : 키트루다주의 허가사항 및 인정된 사전신청요법 범위 내에서 전액본인부담으로 키트루다주를 처방 받으신 분
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 메디플래너
+tpaContact : 02-557-0150
+maxSupport : 위험분담 계약상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 키트루다주의 허가사항 및 인정된 사전신청요법 범위 내에서 전액본인부담으로 키트루다주를 처방 받으신 분
+processingTime : 서류 심사가 완료된 시점을 기준으로 15일 이내
+paymentMethod : 환자 본인 또는 신청인 계좌로 송금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담계약 상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 피부암,폐암,혈액암,방광암,위암,대장암,담도암,간암,췌장암,난소암,유방암,고형암,자궁경부암,기타
+howToApply : 우편 접수
+requiredDocuments : 약제비 환급 신청서, 의료진 추천서, 개인정보 처리 동의서, 비밀유지확약서, 진단서 원본, 진료비 세부내역서 및 영수증, 환자 본인의 신분증 사본, 환자 본인 명의 통장사본
+status : active
+--------------------
+
+--- 행 60 데이터 ---
+id : 63
+programId : enhertu-program
+isNewProgram : True
+programName : 엔허투 약제비 지원
+pharmaCompany : 한국다이이찌산쿄
+brandName : 엔허투
+genericName : 트라스투주맙엠탄신
+supportDetails : 엔허투주를 전액본인부담으로 처방받아 구매한 내용에 대해서 일부 금액을 환급(위험분담 계약상의 환급률에 따름)
+simpleTargetIndication : HER2 양성 전이성 유방암, 비소세포폐암, 위암
+sourceURL : https://www.daiichisankyo.co.kr/news/notice/175
+targetIndication : HER2 양성 유방암, 비소세포폐암, 위암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 아이큐비아MMK
+tpaContact : 02-6925-3866
+maxSupport : 위험분담 계약상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 엔허투를 허가사항 내에서 전액본인부담으로 처방 받은 환자
+processingTime : 서류 충족 후 30일 이내
+paymentMethod : 환자 본인 카카오페이 계좌 송금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담계약 상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 유방암,폐암,위암
+howToApply : 카카오톡 [한Q] 채널, 등기우편, 이메일
+requiredDocuments : 약제비 환급 프로그램 신청서, 개인정보 처리 동의서, 약제비 환급 프로그램 확인서(의료진), 비밀유지확약서, 진료비 세부내역서, 약제비 수납 영수증
+status : active
+--------------------
+
+--- 행 61 데이터 ---
+id : 64
+programId : ibrance-program-rsa
+isNewProgram : False
+programName : 입랜스 약제비 지원 프로그램
+pharmaCompany : 한국화이자제약
+brandName : 입랜스
+genericName : 팔보시클립
+supportDetails : 입랜스캡슐 또는 입랜스정을 전액본인부담(상한가 기준)으로 처방받아 구매한 내용에 대해서 일부 금액을 환급(위험분담 계약상의 환급률에 따름)
+simpleTargetIndication : HR+/HER2- 전이성 유방암
+sourceURL : https://www.pfizer.co.kr/media/%ED%99%94%EC%9D%B4%EC%9E%90-%EC%86%8C%EC%8B%9D/%EC%9E%85%EB%9E%9C%EC%8A%A4%EC%BA%A1%EC%8A%90-%EB%98%90%EB%8A%94-%EC%9E%85%EB%9E%9C%EC%8A%A4%EC%A0%95-%EC%A0%84%EC%95%A1%EB%B3%B8%EC%9D%B8%EB%B6%80%EB%8B%B4-%ED%99%98%EC%9E%90%EC%9D%98-%EC%95%BD%EC%A0%9C%EB%B9%84-%ED%99%98%EA%B8%89%E1%86%9E%EC%A7%80%EC%9B%90-%EC%82%AC%EC%97%85-%EC%95%88%EB%82%B4%EB%AC%B8
+targetIndication : HR+/HER2- 전이성 유방암
+contractType : RSA
+supportType : 약제비 환급
+tpaCompany : 에임메드
+tpaContact : 1661-4037
+maxSupport : 위험분담 계약상의 환급률에 따름
+maxSupportAmount : 지원 한도 금액 제한 없음
+eligibility : 입랜스캡슐 또는 입랜스정을 허가사항 내에서 전액본인부담으로 처방 받은 환자
+processingTime : 서류 충족 후 30일 이내
+paymentMethod : 환자 본인 또는 신청인 계좌로 송금
+incomeRequirement : 소득 기준 없음
+specialConditions : 위험분담계약 상의 환급률에 따라 환급, 비밀유지의무 준수
+cancerTypes : 유방암
+howToApply : 우편 접수, 이메일 접수
+requiredDocuments : 약제비 환급 신청서, 처방전 (진료비 세부 내역서 대체 가능), 납부 영수증(전산 발행본), 개인정보처리동의서, 환자 본인의 신분증 사본, 환자 본인 명의 통장사본
+status : active
+--------------------
+

@@ -1,0 +1,239 @@
+{
+    "tokens": 19647,
+    "response": {
+        "skin_tone": {
+            "value": "다크 스킨",
+            "reason": "영상 'KOREAN BEAUTY ON DARK SKIN | RED VELVET X ETUDE HOUSE SWATCHES'에서 다크 스킨에 대한 언급과 한국 화장품 발색에 대한 내용이 주를 이룹니다. 또한, 'MORPHE SENT ME THE CHARLI AND DIXIE D'AMELIO MAKEUP LINE CAUSE IM 16' 영상에서 특정 색상이 피부톤에 어울릴지 언급하는 내용이 있습니다.",
+            "video": [
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 66.27,
+                    "text": "these so these are the five colors here",
+                    "type": "script"
+                },
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 136.9,
+                    "text": "color",
+                    "type": "script"
+                },
+                {
+                    "id": "5hlKsQeMjbE",
+                    "offset": 744.079,
+                    "text": "sure what that's gonna look like on my",
+                    "type": "script"
+                },
+                {
+                    "id": "5hlKsQeMjbE",
+                    "offset": 746.399,
+                    "text": "skin tone",
+                    "type": "script"
+                },
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 402.69,
+                    "text": "lighter",
+                    "type": "script"
+                }
+            ]
+        },
+        "skin_concern": {
+            "value": "피부 결점, 모공, 뾰루지",
+            "reason": "영상 'PEELING OFF MY MAKEUP ???'에서 T존 부위, 특히 코의 모공과 뾰루지에 대한 고민을 언급하고 있습니다. 또한, 'CHAOTIC GET READY WITH ME TO GO NOWHERE CAUSE ITS A PANDEMIC'에서 얼굴에 매듭이 느껴지고 피부가 스트레스받는다고 언급합니다.",
+            "video": [
+                {
+                    "id": "PlCFtL7y2qg",
+                    "offset": 138.209,
+                    "text": "my t-zone area especially my nose my",
+                    "type": "script"
+                },
+                {
+                    "id": "PlCFtL7y2qg",
+                    "offset": 141,
+                    "text": "nose has a pimple on it and it has black",
+                    "type": "script"
+                },
+                {
+                    "id": "2t1enX-8ovw",
+                    "offset": 2.48,
+                    "text": "why did no one tell me i have a unibrow",
+                    "type": "script"
+                },
+                {
+                    "id": "hLPlHyqaQ4I",
+                    "offset": 285.12,
+                    "text": "realized i had knots in my face my face",
+                    "type": "script"
+                },
+                {
+                    "id": "hLPlHyqaQ4I",
+                    "offset": 287.6,
+                    "text": "is stressed out",
+                    "type": "script"
+                }
+            ]
+        },
+        "skin_care": {
+            "value": "수분 공급, 마사지",
+            "reason": "'CHAOTIC GET READY WITH ME TO GO NOWHERE CAUSE ITS A PANDEMIC' 영상에서 스네일 점액을 이용한 수분 공급과 괄사를 이용한 마사지를 언급하며, 'MY (ALMOST) 10 STEP KOREAN SKINCARE ROUTINE | MORNING SKINCARE' 영상에서 아이크림 사용 및 가벼운 제형의 수분 크림 사용을 언급합니다. 'MY KOREAN SKINCARE ROUTINE | NIGHTTIME SKINCARE ROUTINE'에서 아이크림과 페이셜 버터를 사용한 나이트 케어를 보여줍니다.",
+            "video": [
+                {
+                    "id": "hLPlHyqaQ4I",
+                    "offset": 293.04,
+                    "text": "lifting and firming the skin i feel like",
+                    "type": "script"
+                },
+                {
+                    "id": "hLPlHyqaQ4I",
+                    "offset": 307.919,
+                    "text": "now again we're using more snail juice",
+                    "type": "script"
+                },
+                {
+                    "id": "pxq4dNoLPQk",
+                    "offset": 312.22,
+                    "text": "just going to help prevent fine lines",
+                    "type": "script"
+                },
+                {
+                    "id": "pxq4dNoLPQk",
+                    "offset": 338.53,
+                    "text": "so I used my doctor Bellmer and daily",
+                    "type": "script"
+                },
+                {
+                    "id": "k6OqeiiQsV4",
+                    "offset": 334.61,
+                    "text": "something I can feel certain parts that",
+                    "type": "script"
+                }
+            ]
+        },
+        "foundation_color": {
+            "value": "다크 컬러",
+            "reason": "'READING YOUR ASSUMPTIONS ABOUT ME (while I eat Red Lobster)' 영상에서 자신의 피부색에 맞는 파운데이션을 찾기 어렵다고 언급합니다. 'I ONLY DATE ASIAN GUYS...and other assumptions' 영상에서 컨투어링을 위해 몰피 파우더를 사용하고, 쓰리씨이(3CE)의 멀티팟을 블러셔로 사용합니다.",
+            "video": [
+                {
+                    "id": "v58alBE6O78",
+                    "offset": 284.73,
+                    "text": "foundations even though it's really hard",
+                    "type": "script"
+                },
+                {
+                    "id": "v58alBE6O78",
+                    "offset": 286.8,
+                    "text": "to find a foundation in my color the",
+                    "type": "script"
+                },
+                {
+                    "id": "60VpO0hQby0",
+                    "offset": 257.59,
+                    "text": "about skin color so obviously you know",
+                    "type": "script"
+                },
+                {
+                    "id": "60VpO0hQby0",
+                    "offset": 292.6,
+                    "text": "I'm grabbing my morphe powder I'm gonna",
+                    "type": "script"
+                }
+            ]
+        },
+        "favorite_brand": {
+            "value": "Cosrx, 3CE",
+            "reason": "영상에서 Cosrx 제품을 자주 언급하며, 'I ONLY DATE ASIAN GUYS...and other assumptions'에서 3CE의 립스틱을 가장 좋아하는 오렌지 립스틱으로 언급합니다. 'KOREAN BEAUTY HEAVEN'에서 Cosrx 제품을 구매하는 모습이 나타납니다.",
+            "video": [
+                {
+                    "id": "HiKaaLLhCZ4",
+                    "offset": 16.859,
+                    "text": "skincare this is where I get all my",
+                    "type": "script"
+                },
+                {
+                    "id": "HiKaaLLhCZ4",
+                    "offset": 18.48,
+                    "text": "cosrx products and there's a section",
+                    "type": "script"
+                },
+                {
+                    "id": "HiKaaLLhCZ4",
+                    "offset": 39.239,
+                    "text": "from cosrx and you know I have to buy",
+                    "type": "script"
+                },
+                {
+                    "id": "60VpO0hQby0",
+                    "offset": 486.48,
+                    "text": "for lipstick I'm using this lipstick",
+                    "type": "script"
+                },
+                {
+                    "id": "60VpO0hQby0",
+                    "offset": 489.37,
+                    "text": "from 3ce II this one is called hit me up",
+                    "type": "script"
+                }
+            ]
+        },
+        "negative_brand": {
+            "value": "에뛰드하우스 레드벨벳 콜라보 Yeti pink",
+            "reason": "'KOREAN BEAUTY ON DARK SKIN | RED VELVET X ETUDE HOUSE SWATCHES' 영상에서 에뛰드하우스와 레드벨벳 콜라보 제품 중 Yeti pink 색상이 다크 스킨에 발색이 좋지 않고 patchy하다고 언급합니다.",
+            "video": [
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 531.53,
+                    "text": "all of them except for probably the Yeti",
+                    "type": "script"
+                },
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 533.33,
+                    "text": "pink cause it's just too patchy and it's",
+                    "type": "script"
+                },
+                {
+                    "id": "c-u4tCMUrTI",
+                    "offset": 535.76,
+                    "text": "not really like my color anyway",
+                    "type": "script"
+                }
+            ]
+        },
+        "kr_cosmetics_opinion": {
+            "value": "다크 스킨을 위한 다양한 색조 부족",
+            "reason": "'TRYING MORE VT x BTS MAKEUP (and regretting it...)' 영상에서 한국 화장품이 국제적인 팬층을 고려하지 않고 다크 스킨을 위한 다양한 색조를 제공하지 않는 점을 비판합니다.",
+            "video": [
+                {
+                    "id": "Z16UMsVmFGI",
+                    "offset": 394.14,
+                    "text": "and while I'm not asking that Koreans",
+                    "type": "script"
+                },
+                {
+                    "id": "Z16UMsVmFGI",
+                    "offset": 397.05,
+                    "text": "start making foundations dark enough for",
+                    "type": "script"
+                },
+                {
+                    "id": "Z16UMsVmFGI",
+                    "offset": 415.41,
+                    "text": "collaborating with a group who has",
+                    "type": "script"
+                },
+                {
+                    "id": "Z16UMsVmFGI",
+                    "offset": 439.83,
+                    "text": "you expect me to promote something that",
+                    "type": "script"
+                },
+                {
+                    "id": "Z16UMsVmFGI",
+                    "offset": 441.539,
+                    "text": "isn't geared towards me I'm just not",
+                    "type": "script"
+                }
+            ]
+        }
+    }
+}
