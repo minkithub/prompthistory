@@ -9,8 +9,10 @@
 - AI 등장 이후 SEO, AEO, GEO에 대해 정밀하게 조사해줘
 - AI 시대에 AEO, GEO가 왜 중요한지 조사해줘
 - AI 시대의 제로클릭 현상에 대해 조사해줘. 그리고 이 제로클릭 현상이 언론에 미치는 영향에 대해 조사해줘
-- AI 기업들과 미국, 한국 언론사 사이의 분쟁 사례에 대해 조사해줘.
+- AI 기업들과 미국, 한국 언론사 사이의 분쟁·제휴·협력 사례에 대해 조사해줘.
 - AEO, GEO, 제로클릭, AI 기업과의 분쟁에서 언론업계가 어떻게 대응해야 할지 조사해줘. 특히 좋은 사례가 있다면 꼭 첨부해줘
+- AEO, GEO와 관련한 좋은 대응 사례로 'Cloudflare의 크롤링 과금 도입'을 조사해줘.
+(AI가 언론사 데이터·기사를 무단으로 수집해 가는 것을 방지하고, 이들에게 과금을 유도하기 위한 대안 중 하나의 사례로 언급할 것.)
 
 # 3. 주의사항
 - 조사를 할 때 객관적이고 신빙성 있는 자료를 토대로 조사해줘
@@ -71,120 +73,8 @@
 - 각기 다른 정치 성향과 프로필을 가진 질문 총 987개를 웹 검색을 했을때 여기서 수집된 링크의 동향을 파악해 언론사의 AEO/GEO 현황에 대해서 파악
 
 ### 5-5 실험 결과
-[인용 웹사이트]
-- 서비스·회사 / 이름 / 해당 URL 개수 / 전체 대비 비율 (%) / 주요 도메인 예시
-1. 한국경제 (Hankook Ilbo) / 34 / 6.98% / hankyung.com, magazine.hankyung.com, sgsg.hankyung.com
-2. 대한민국 정책브리핑 (Korea.net) / 26 / 5.34% / korea.kr, gonggam.korea.kr, m.korea.kr
-3. 매일경제 (Maeil Business Newspaper) / 25 / 5.13% / mk.co.kr
-4. 조선일보 (Chosun Ilbo)	24	4.93%	chosun.com, biz.chosun.com, realty.chosun.com
-5. 뉴스토마토 (News Tomato)	21	4.31%	newstomato.com
-6. 유튜브 (YouTube)	17	3.49%	youtube.com
-7. 한겨레 (Hankyoreh)	16	3.29%	hani.co.kr
-8. 뉴시스 (Newsis)	14	2.87%	newsis.com
-9. 오마이뉴스 (OhmyNews)	12	2.46%	ohmynews.com
-10. 서울경제 (Seoul Economic Daily)	11	2.26%	sedaily.com, signalm.sedaily.com
-11. Daum 뉴스 (뉴스 플랫폼)	9	1.85%	v.daum.net
-12. 경향신문 (Kyunghyang Shinmun)	9	1.85%	khan.co.kr
-13. 네이트뉴스 (Nate News, 뉴스 플랫폼)	9	1.85%	news.nate.com, m.news.nate.com
-14. 국토교통부 (MOLIT)	9	1.85%	molit.go.kr
-15. 동아일보 (Dong-A Ilbo)	8	1.64%	donga.com, weekly.donga.com
-16. 이데일리 (Edaily)	8	1.64%	edaily.co.kr, marketin.edaily.co.kr
-17. 부산일보 (Busan Ilbo)	7	1.44%	busan.com, mobile.busan.com
-18. RISS (학술 정보 서비스)	7	1.44%	riss.kr, m.riss.kr
-19. 채널A (Channel A)	6	1.23%	ichannela.com
-20. 법제처 (Ministry of Government Legislation)	5	1.03%	moleg.go.kr, law.go.kr, easylaw.go.kr
-21. 한국부동산원 (Korea Real Estate Board)	5	1.03%	reb.or.kr, kapf.or.kr
-22. KDI (Korea Development Institute)	5	1.03%	kdi.re.kr, eiec.kdi.re.kr
-23. 한국개발연구원 (KRIHS)	5	1.03%	krihs.re.kr, kremap.krihs.re.kr
-24. MBC 뉴스	5	1.03%	imnews.imbc.com
-25. 서울특별시 (Seoul Metropolitan Government)	5	1.03%	housing.seoul.go.kr, seoulsolution.kr, etc.
-26. Tistory 블로그	5	1.03%	superrich10000.tistory.com, soso-cho.com, etc.
-27. KB 금융그룹 (KB Financial Group)	5	1.03%	kbthink.com, kbfg.com, m.kbcapital.co.kr, etc.
-28. 금융위원회 (Financial Services Commission)	4	0.82%	fsc.go.kr
-29. 뉴닉 (Newneek)	4	0.82%	newneek.co
-30. 세계일보 (Segye Ilbo)	4	0.82%	segye.com, m.segye.com
-31. Construction and Economy Research Institute of Korea	3	0.62%	codil.or.kr
-32. Housing Herald	3	0.62%	housingherald.co.kr
-33. MSToday	3	0.62%	mstoday.co.kr
-34. KCI (Korea Citation Index)	3	0.62%	kci.go.kr, journal.kci.go.kr
-35. 한국은행 (Bank of Korea)	3	0.62%	bok.or.kr, file.ltoss.co.kr
-36. 참여연대 (People's Solidarity)	3	0.62%	peoplepower21.org
-37. 이투데이 (Etoday)	3	0.62%	etoday.co.kr, bravo.etoday.co.kr
-38. Energy Economy News	3	0.62%	ekn.kr, m.ekn.kr
-39. Financial News	3	0.62%	fnnews.com, m.fnewstv.com
-40. Korea Daily (US)	3	0.62%	koreadaily.com
-41. 국세청 (National Tax Service)	3	0.62%	nts.go.kr
-42. 비즈니스워치 (Bizwatch)	3	0.62%	news.bizwatch.co.kr
-43. 비즈한국 (Biz Hankook)	3	0.62%	bizhankook.com
-44. 국회 (National Assembly of Korea)	3	0.62%	record.assembly.go.kr, assemblynews.co.kr, nabo.go.kr
-45. AMRO (ASEAN+3 Macroeconomic Research Office)	3	0.62%	amro-asia.org
-46. Reuters	3	0.62%	reuters.com
-47. 월스트리트저널 (Wall Street Journal)	2	0.41%	wsj.com
-48. Guardian	2	0.41%	theguardian.com
-49. South China Morning Post	2	0.41%	scmp.com
-50. Wikipedia	2	0.41%	en.wikipedia.org, ko.wikipedia.org
-4. KEDI (Korean Educational Development Institute)	2	0.41%	kedi.re.kr
-4. CBS 노컷뉴스	2	0.41%	nocutnews.co.kr
-4. 뉴데일리 비즈 (Newdaily Biz)	2	0.41%	biz.newdaily.co.kr
-4. Industry News	2	0.41%	industrynews.co.kr
-4. LH (Korea Land and Housing Corporation)	2	0.41%	lh.or.kr, apply.lh.or.kr
-4. 이로운넷 (Eroun News)	2	0.41%	erounews.kr
-4. 아시아경제 (Asiae)	2	0.41%	asiae.co.kr
-2. 시민일보 (Simin Ilbo)	2	0.41%	siminilbo.co.kr
-2. Safe Homes	2	0.41%	safehomes.kr
-2. Research Institute for Human Settlements (KRIHS) Repository	2	0.41%	repository.kihasa.re.kr
-2. 더데일리머니 (The Daily Money)	2	0.41%	thedailymoney.com
-2. KBS 뉴스	2	0.41%	kbsm.net, news.kbs.co.kr
-2. Voice of the People	2	0.41%	vop.co.kr
-2. Business Post	2	0.41%	businesspost.co.kr
-2. MetLife Korea	2	0.41%	metlife.co.kr
-2. Toss (금융 서비스)	2	0.41%	toss.im
-2. Toss Bank	2	0.41%	tossbank.com
-2. Tistory Blog (기타)	2	0.41%	devhwi.tistory.com, tipintip.tistory.com
-2. Encyclopedia of Korean Local Culture	2	0.41%	sejong.grandculture.net, encykorea.aks.ac.kr
-2. News Top	2	0.41%	newstof.com
-2. Seoul Metropolitan Government (Data/Files)	2	0.41%	data.seoul.go.kr, seoulsolution.kr (files)
-2. 오피니언뉴스 (Opinion News)	2	0.41%	opinionnews.co.kr
-2. 나머지 (각 1개 URL)	63	12.94%	(총 63개 도메인/서비스)
-총계 : 487개
-
-
-
-
-# 5. 기고문 구조
-1. 도입 (Introduction, 0.5 페이지): "왜 지금 AI를 다시 주목해야 하는가?"
-- 최근 AI 붐과 맞물려 AI 회의론 역시 등장. 하지만 AI는 전세계 트렌드를 주도하는 패러다임임이 명학
-- 단순한 'AI 붐'을 넘어, 최근 1년 사이 AI 기술이 질적으로 어떻게 변했는지 핵심만 요약 (예: 추론 능력의 비약적 발전, 멀티모달의 보편화).
-- 이것이 미디어 산업에 단순한 '툴'의 등장이 아닌, '패러다임 전환'을 의미하는 이유를 문제 제기하며 독자의 흥미를 유발하라.
-근데
-2. Part 1. 지각 변동의 주역들: 최신 AI 모델 동향 분석 (1 페이지)
-
-2-1. 거대 언어 모델(LLM) 경쟁 심화
-- OpenAI GPT-5 (또는 최신 모델): 단순 텍스트 생성을 넘어선 '추론 엔진'으로서의 가능성과 '환각 현상' 감소가 갖는 의미를 분석.
-- Google Gemini 시리즈 (1.5 Pro, Project Astra 등): 방대한 컨텍스트 창(Context Window)과 실시간 영상/음성 인식 기술이 미디어의 '라이브' 경험을 어떻게 바꿀 수 있는지 집중 조명.
-
-2-2. 시각적 혁명: 텍스트-투-이미지/비디오 모델
-- Sora, Kling 등: 단순 영상 생성을 넘어, '물리 법칙을 이해하는 시뮬레이터'로 진화하는 현상을 분석. 이것이 영화, 광고 제작의 파이프라인을 어떻게 파괴하고 재창조할지 예측.
-
-2-3. 청각적 진화: 오디오 및 음성 AI
-- ElevenLabs, Suno AI 등: 배우의 목소리를 완벽하게 복제/변환하거나, 몇 초 만에 방송용 배경음악(BGM)을 생성하는 기술의 파급력 분석. (저작권 이슈 포함)
-
-[심층 분석]: 각 모델의 스펙 나열이 아닌, **'이 기술적 진보가 이전과 근본적으로 무엇이 다른가'**에 초점을 맞춰 서술하라.
-
-3. Part 2. 해외 혁신 사례: 누가 어떻게 돈을 벌고 있는가? (1.5 페이지)
-
-3-1. 빅테크의 실험:
-- Netflix, Disney 등 거대 미디어 기업들이 AI를 콘텐츠 제작 및 개인화 추천 시스템에 어떻게 '내부적으로(in-house)' 활용하고 있는지 구체적 사례 제시.
-
-3-2. VC/AC가 주목하는 AI 미디어 스타트업:
-- 하이퍼-개인화 뉴스: (예: Artifact의 실패 사례 분석을 통한 교훈, 혹은 유사 스타트업의 성공 전략)
-- AI 기반 영상 제작 자동화: (예: RunwayML, Pika Labs의 비즈니스 모델과 실제 영화/광고 제작사와의 협업 사례)
-- 디지털 휴먼 및 버추얼 인플루언서: (국내외 사례를 비교하며, 기술을 넘어 'IP 비즈니스'로 확장되는 현상 분석)
-
-[심층 분석]: 한국에 잘 알려지지 않은 최신 투자 라운드를 유치한 스타트업이나, 주요 VC(a16z, Sequoia Capital 등)가 발표한 AI 미디어 관련 리포트를 인용하여 분석의 신뢰도를 높여라. 단순 사례 나열이 아닌, **'이들의 성공(또는 실패) 요인은 무엇이며, 한국 시장에 어떤 시사점을 주는가'**를 반드시 포함하라.
-
-4. Part 3. 한국 미디어 산업의 과제와 기회 (0.5 페이지)
-- 위기 요인: 저작권 문제, 가짜뉴스 확산, 국내 기술 종속 가능성 등 당면 과제 진단.
-- 기회 요인: K-콘텐츠의 글로벌 확장 가속화(AI 기반 번역/더빙), 제작비 절감 및 효율화, 새로운 인터랙티브 콘텐츠 포맷 실험 등.
-
-[제언]: 국내 미디어 기업들이 지금 당장 시작해야 할 작은 실험(Small bet)들을 구체적으로 제안하며 기고문을 마무리하라.
+- 실험 결과는 구글 스프레드 시트로 첨부. 구글 스프레드 시트의 데이터를 꼭 확인해줘
+- 스프레드 시트 링크 : https://docs.google.com/spreadsheets/d/1SAcsg3eh2mJxFC1y859ghjSIj2c2BbziX42JIuWbzxo/edit?usp=sharing
+- 첫 번째 시트 : 언론사 가시성 측정 쿼리로 AI를 통한 가상 인물 및 질문 생성
+- 두 번째 시트 : 인용 웹사이트
+- 세 번째 시트 : 더보기 웹사이트
